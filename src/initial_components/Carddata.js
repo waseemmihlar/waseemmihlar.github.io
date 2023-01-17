@@ -1,8 +1,15 @@
 import image1 from '../accets/foodOrder.webp';
 import image2 from '../accets/secureimage2.png';
 import image3 from '../accets/All-app.jpg';
-
+import image4 from '../accets/Mern-memory.png';
 const Carddata=[
+
+	{
+        image:image4,
+        title:"MERN CRUD Application",
+        text:"Full stack web Application Using Mongodb, Express-js, React-js, Node-js. with Authendication and Authorization process, Google login API, fully Responsive, MUI use for UI",
+        link:"https://github.com/waseemmihlar/MERN-memories-frontend.git"
+    },
     {
         image:image1,
         title:"Online Food-Odering",
@@ -18,9 +25,10 @@ const Carddata=[
     {
         image:image3,
         title:"Other Project Application",
-        text:"React Ui apps, Mern Project,",
+        text:"React Ui Pages, Other Mern Project,",
         link:"https://github.com/waseemmihlar"
-    }
+    },
+	
 
 
 ]
