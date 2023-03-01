@@ -1,0 +1,47 @@
+.skill-container {
+  padding-bottom: 4rem;
+}
+
+.skill-heading {
+  text-align: center;
+  padding: 4rem 0 2rem 0;
+}
+
+.knowledge-container {
+  max-width: 1140px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: auto;
+  grid-gap: 40px;
+}
+.grid-container {
+  border: 5px solid rgb(136, 136, 136);
+  border-radius: 15px;
+}
+
+.mern-skill,
+.java-skill,
+.reactnative-skill {
+  /* color: rgb(18, 196, 151); */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 0;
+}
+
+.mern-skillitem {
+  display: flex;
+  justify-content: left;
+  flex-direction: row;
+  padding: 10px 20px;
+  gap: 10px;
+}
+
+@media screen and (max-width: 740px) {
+  .knowledge-container {
+    grid-template-columns: repeat(1, 1fr);
+    width: 90%;
+    margin: auto;
+  }
+}
