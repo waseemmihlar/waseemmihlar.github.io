@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.faf9a5cb.css",
-    "main.js": "/static/js/main.5a91d355.js",
+    "main.css": "/static/css/main.821e0f45.css",
+    "main.js": "/static/js/main.c54787d0.js",
     "static/media/Intro.jpg": "/static/media/Intro.ddba3f524c31a067df74.jpg",
     "static/media/openai.png": "/static/media/openai.9504c65ccf0b361f6218.png",
+    "static/media/phpCart.jpg": "/static/media/phpCart.59e3cc495635f03c36cb.jpg",
     "static/media/Mern-memory.png": "/static/media/Mern-memory.b8cabf2c5c998ab684c2.png",
     "static/media/secureimage2.png": "/static/media/secureimage2.d7921f1c85e5adb97e4e.png",
     "static/media/img3-1181216.jpeg": "/static/media/img3-1181216.cb642f08f86a058b43fe.jpeg",
@@ -12,11 +13,11 @@
     "static/media/foodOrder.webp": "/static/media/foodOrder.f5a38ab2d142a235dcd9.webp",
     "static/media/mern1.webp": "/static/media/mern1.51d85f3075ffd5248831.webp",
     "index.html": "/index.html",
-    "main.faf9a5cb.css.map": "/static/css/main.faf9a5cb.css.map",
-    "main.5a91d355.js.map": "/static/js/main.5a91d355.js.map"
+    "main.821e0f45.css.map": "/static/css/main.821e0f45.css.map",
+    "main.c54787d0.js.map": "/static/js/main.c54787d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.faf9a5cb.css",
-    "static/js/main.5a91d355.js"
+    "static/css/main.821e0f45.css",
+    "static/js/main.c54787d0.js"
   ]
 }
