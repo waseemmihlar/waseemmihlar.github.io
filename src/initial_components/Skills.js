@@ -48,6 +48,10 @@ const Skills = () => {
             <FaChevronRight color="rgb(18, 196, 151)" size={"20px"} />
             <p>Mongo DB</p>
           </div>
+          <div className="mern-skillitem">
+            <FaChevronRight color="rgb(18, 196, 151)" size={"20px"} />
+            <p>PHP (Laravel)</p>
+          </div>
         </div>
         <div className="grid-container">
           <div className="java-skill">
@@ -94,7 +98,7 @@ const Skills = () => {
 
         <div className="grid-container">
           <div className="reactnative-skill">
-            <h4>React Native</h4>
+            <h4>Flutter/Laravel</h4>
             <div style={{ border: "3px solid white", width: "80%" }}></div>
             <div
               style={{
@@ -115,11 +119,11 @@ const Skills = () => {
           </div>
           <div className="mern-skillitem">
             <FaChevronRight color="rgb(18, 196, 151)" size={"20px"} />
-            <p>Cross-Platform...</p>
+            <p>Flutter-Cross-Platform...</p>
           </div>
           <div className="mern-skillitem">
             <FaChevronRight color="rgb(18, 196, 151)" size={"20px"} />
-            <p>Still Learning...</p>
+            <p>both are Still Learning...</p>
           </div>
         </div>
       </div>
