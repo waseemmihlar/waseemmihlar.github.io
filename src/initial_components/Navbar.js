@@ -28,7 +28,7 @@ function Navbar() {
       </Link>
       <ul className={barclick ? "nav-menu active" : "nav-menu"}>
         <li>
-          <a href="/Resume.pdf" className="cv" download="Waseem">
+          <a href="/waseem.pdf" className="cv" download="Waseem">
             Download CV
           </a>
         </li>
