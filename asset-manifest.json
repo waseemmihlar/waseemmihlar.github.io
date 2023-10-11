@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.821e0f45.css",
+    "main.css": "/static/css/main.9e8b74df.css",
     "main.js": "/static/js/main.c54787d0.js",
     "static/media/Intro.jpg": "/static/media/Intro.ddba3f524c31a067df74.jpg",
     "static/media/openai.png": "/static/media/openai.9504c65ccf0b361f6218.png",
@@ -13,11 +13,11 @@
     "static/media/foodOrder.webp": "/static/media/foodOrder.f5a38ab2d142a235dcd9.webp",
     "static/media/mern1.webp": "/static/media/mern1.51d85f3075ffd5248831.webp",
     "index.html": "/index.html",
-    "main.821e0f45.css.map": "/static/css/main.821e0f45.css.map",
+    "main.9e8b74df.css.map": "/static/css/main.9e8b74df.css.map",
     "main.c54787d0.js.map": "/static/js/main.c54787d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.821e0f45.css",
+    "static/css/main.9e8b74df.css",
     "static/js/main.c54787d0.js"
   ]
 }
